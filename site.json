@@ -1,0 +1,852 @@
+{
+    "webSite": [
+        {
+            "name": " sport.ru",
+            "url": "https://sport.ru"
+        },
+        {
+            "name": " leprosorium.ru",
+            "url": "https://leprosorium.ru"
+        },
+        {
+            "name": " ya.ru",
+            "url": "https://ya.ru"
+        },
+        {
+            "name": " roem.ru",
+            "url": "https://roem.ru"
+        },
+        {
+            "name": " orabote.top",
+            "url": "https://orabote.top"
+        },
+        {
+            "name": " twitch.tv",
+            "url": "https://twitch.tv"
+        },
+        {
+            "name": " habrahabr.ru",
+            "url": "https://habrahabr.ru"
+        },
+        {
+            "name": " e-katerina.ru",
+            "url": "https://e-katerina.ru"
+        },
+        {
+            "name": " twirpx.com",
+            "url": "https://twirpx.com"
+        },
+        {
+            "name": "yandex.ru",
+            "url": "https://yandex.ru"
+        },
+        {
+            "name": " drive2.ru",
+            "url": "https://drive2.ru"
+        },
+        {
+            "name": " bash.org.ru",
+            "url": "https://bash.org.ru"
+        },
+        {
+            "name": " fssp.gov.ru",
+            "url": "https://fssp.gov.ru"
+        },
+        {
+            "name": " mirf.ru",
+            "url": "https://mirf.ru"
+        },
+        {
+            "name": " avito.ru",
+            "url": "https://avito.ru"
+        },
+        {
+            "name": " newsland.com",
+            "url": "https://newsland.com"
+        },
+        {
+            "name": " it-world.ru",
+            "url": "https://it-world.ru"
+        },
+        {
+            "name": " pikabu.ru",
+            "url": "https://pikabu.ru"
+        },
+        {
+            "name": " nalog.ru",
+            "url": "https://nalog.ru"
+        },
+        {
+            "name": " openbank.ru",
+            "url": "https://openbank.ru"
+        },
+        {
+            "name": " novayagazeta.ru",
+            "url": "https://novayagazeta.ru"
+        },
+        {
+            "name": " vshkole.com",
+            "url": "https://vshkole.com"
+        },
+        {
+            "name": " mos.ru",
+            "url": "https://mos.ru"
+        },
+        {
+            "name": " mytask.ru",
+            "url": "https://mytask.ru"
+        },
+        {
+            "name": " amedia.ru",
+            "url": "https://amedia.ru"
+        },
+        {
+            "name": " kinogo.zone",
+            "url": "https://kinogo.zone"
+        },
+        {
+            "name": " ozon.ru",
+            "url": "https://ozon.ru"
+        },
+        {
+            "name": " myshows.me",
+            "url": "https://myshows.me"
+        },
+        {
+            "name": " kinopoisk.com",
+            "url": "https://kinopoisk.com"
+        },
+        {
+            "name": " u-torrent.ru",
+            "url": "https://u-torrent.ru"
+        },
+        {
+            "name": " domashniy.ru",
+            "url": "https://domashniy.ru"
+        },
+        {
+            "name": " prodoctorov.ru",
+            "url": "https://prodoctorov.ru"
+        },
+        {
+            "name": " kinoman.club",
+            "url": "https://kinoman.club"
+        },
+        {
+            "name": " dzen.ru",
+            "url": "https://dzen.ru"
+        },
+        {
+            "name": " onliner.by",
+            "url": "https://onliner.by"
+        },
+        {
+            "name": " vestikavkaza.ru",
+            "url": "https://vestikavkaza.ru"
+        },
+        {
+            "name": " whatsapp.com",
+            "url": "https://whatsapp.com"
+        },
+        {
+            "name": " skidka-goda.ru",
+            "url": "https://skidka-goda.ru"
+        },
+        {
+            "name": " ivi.tv",
+            "url": "https://ivi.tv"
+        },
+        {
+            "name": " mangaonline.ru",
+            "url": "https://mangaonline.ru"
+        },
+        {
+            "name": " maski-tut.ru",
+            "url": "https://maski-tut.ru"
+        },
+        {
+            "name": " sozdik.kz",
+            "url": "https://sozdik.kz"
+        },
+        {
+            "name": " labirint.ru",
+            "url": "https://labirint.ru"
+        },
+        {
+            "name": " domkino.tv",
+            "url": "https://domkino.tv"
+        },
+        {
+            "name": " s9x.ru",
+            "url": "https://s9x.ru"
+        },
+        {
+            "name": " animego.org",
+            "url": "https://animego.org"
+        },
+        {
+            "name": " 2gis.ru",
+            "url": "https://2gis.ru"
+        },
+        {
+            "name": " rabota.ru",
+            "url": "https://rabota.ru"
+        },
+        {
+            "name": " freemovie.one",
+            "url": "https://freemovie.one"
+        },
+        {
+            "name": " foxnotes.ru",
+            "url": "https://foxnotes.ru"
+        },
+        {
+            "name": " ladno.ru",
+            "url": "https://ladno.ru"
+        },
+        {
+            "name": " m24.ru",
+            "url": "https://m24.ru"
+        },
+        {
+            "name": " rutube.ru",
+            "url": "https://rutube.ru"
+        },
+        {
+            "name": " downkin.uz",
+            "url": "https://downkin.uz"
+        },
+        {
+            "name": " smi.ru",
+            "url": "https://smi.ru"
+        },
+        {
+            "name": " rutor.info",
+            "url": "https://rutor.info"
+        },
+        {
+            "name": " abbyy.ru",
+            "url": "https://abbyy.ru"
+        },
+        {
+            "name": " cool-d.net",
+            "url": "https://cool-d.net"
+        },
+        {
+            "name": " apple.com",
+            "url": "https://apple.com"
+        },
+        {
+            "name": " ria.ru",
+            "url": "https://ria.ru"
+        },
+        {
+            "name": " wotblitz.com",
+            "url": "https://wotblitz.com"
+        },
+        {
+            "name": " filehunter.ru",
+            "url": "https://filehunter.ru"
+        },
+        {
+            "name": " kino-max.org",
+            "url": "https://kino-max.org"
+        },
+        {
+            "name": " lostfilm.tv",
+            "url": "https://lostfilm.tv"
+        },
+        {
+            "name": " multikland.net",
+            "url": "https://multikland.net"
+        },
+        {
+            "name": " gosuslugi.ru",
+            "url": "https://gosuslugi.ru"
+        },
+        {
+            "name": " dou.ua",
+            "url": "https://dou.ua"
+        },
+        {
+            "name": " banki.ru",
+            "url": "https://banki.ru"
+        },
+        {
+            "name": " aliexpress.ru",
+            "url": "https://aliexpress.ru"
+        },
+        {
+            "name": " autogear.ru",
+            "url": "https://autogear.ru"
+        },
+        {
+            "name": " zen.yandex.ru",
+            "url": "https://zen.yandex.ru"
+        },
+        {
+            "name": " duckduckgo.com",
+            "url": "https://duckduckgo.com"
+        },
+        {
+            "name": " rbc.ru",
+            "url": "https://rbc.ru"
+        },
+        {
+            "name": " kinohleb.club",
+            "url": "https://kinohleb.club"
+        },
+        {
+            "name": " lenizdat.ru",
+            "url": "https://lenizdat.ru"
+        },
+        {
+            "name": " prognoz-pogoda.ru",
+            "url": "https://prognoz-pogoda.ru"
+        },
+        {
+            "name": " littered.ru",
+            "url": "https://littered.ru"
+        },
+        {
+            "name": " muzofond.org",
+            "url": "https://muzofond.org"
+        },
+        {
+            "name": " rzd.ru",
+            "url": "https://rzd.ru"
+        },
+        {
+            "name": " rt.com",
+            "url": "https://rt.com"
+        },
+        {
+            "name": " telegram.org",
+            "url": "https://telegram.org"
+        },
+        {
+            "name": " novostimira.com",
+            "url": "https://novostimira.com"
+        },
+        {
+            "name": " kino-torrent.club",
+            "url": "https://kino-torrent.club"
+        },
+        {
+            "name": " cyberleninka.ru",
+            "url": "https://cyberleninka.ru"
+        },
+        {
+            "name": " hh.ru",
+            "url": "https://hh.ru"
+        },
+        {
+            "name": " imperia.forum24.ru",
+            "url": "https://imperia.forum24.ru"
+        },
+        {
+            "name": " google.ru",
+            "url": "https://google.ru"
+        },
+        {
+            "name": " sprosy.ru",
+            "url": "https://sprosy.ru"
+        },
+        {
+            "name": " kino-v-online.tv",
+            "url": "https://kino-v-online.tv"
+        },
+        {
+            "name": " lenta.com",
+            "url": "https://lenta.com"
+        },
+        {
+            "name": " putin-today.ru",
+            "url": "https://putin-today.ru"
+        },
+        {
+            "name": " ok.ru",
+            "url": "https://ok.ru"
+        },
+        {
+            "name": " vesti.ru",
+            "url": "https://vesti.ru"
+        },
+        {
+            "name": " ivi.ru",
+            "url": "https://ivi.ru"
+        },
+        {
+            "name": " balancer.ru",
+            "url": "https://balancer.ru"
+        },
+        {
+            "name": " docs.microsoft.com",
+            "url": "https://docs.microsoft.com"
+        },
+        {
+            "name": " mskguru.ru",
+            "url": "https://mskguru.ru"
+        },
+        {
+            "name": " sportmail.ru",
+            "url": "https://sportmail.ru"
+        },
+        {
+            "name": " nashideti.site",
+            "url": "https://nashideti.site"
+        },
+        {
+            "name": " tproger.ru",
+            "url": "https://tproger.ru"
+        },
+        {
+            "name": " extremecentrepoint.ru",
+            "url": "https://extremecentrepoint.ru"
+        },
+        {
+            "name": " 7kino.tv",
+            "url": "https://7kino.tv"
+        },
+        {
+            "name": " sex-studentki.link",
+            "url": "https://sex-studentki.link"
+        },
+        {
+            "name": " dns-shop.ru",
+            "url": "https://dns-shop.ru"
+        },
+        {
+            "name": " lenta.ru",
+            "url": "https://lenta.ru"
+        },
+        {
+            "name": " tbank.ru",
+            "url": "https://tbank.ru"
+        },
+        {
+            "name": " vashmolochnik.ru",
+            "url": "https://vashmolochnik.ru"
+        },
+        {
+            "name": " kolesa.ru",
+            "url": "https://kolesa.ru"
+        },
+        {
+            "name": " nadomoney.ru",
+            "url": "https://nadomoney.ru"
+        },
+        {
+            "name": " nuancier.ru",
+            "url": "https://nuancier.ru"
+        },
+        {
+            "name": " internetto.ru",
+            "url": "https://internetto.ru"
+        },
+        {
+            "name": " forum.vi.ru",
+            "url": "https://forum.vi.ru"
+        },
+        {
+            "name": " dvhab.ru",
+            "url": "https://dvhab.ru"
+        },
+        {
+            "name": " metacritic.com",
+            "url": "https://metacritic.com"
+        },
+        {
+            "name": " mts.ru",
+            "url": "https://mts.ru"
+        },
+        {
+            "name": " yota.ru",
+            "url": "https://yota.ru"
+        },
+        {
+            "name": " acca.ru",
+            "url": "https://acca.ru"
+        },
+        {
+            "name": " nginx.org",
+            "url": "https://nginx.org"
+        },
+        {
+            "name": " kolobok.us",
+            "url": "https://kolobok.us"
+        },
+        {
+            "name": " diasp.org.ru",
+            "url": "https://diasp.org.ru"
+        },
+        {
+            "name": " citilink.ru",
+            "url": "https://citilink.ru"
+        },
+        {
+            "name": " vizitka.com",
+            "url": "https://vizitka.com"
+        },
+        {
+            "name": " onlinesim.ru",
+            "url": "https://onlinesim.ru"
+        },
+        {
+            "name": " domfilm.tv",
+            "url": "https://domfilm.tv"
+        },
+        {
+            "name": " mail.ru",
+            "url": "https://mail.ru"
+        },
+        {
+            "name": " joblab.ru",
+            "url": "https://joblab.ru"
+        },
+        {
+            "name": " kino-v-hd.ru",
+            "url": "https://kino-v-hd.ru"
+        },
+        {
+            "name": " gismeteo.ru",
+            "url": "https://gismeteo.ru"
+        },
+        {
+            "name": " sportbox.ru",
+            "url": "https://sportbox.ru"
+        },
+        {
+            "name": " jut.su",
+            "url": "https://jut.su"
+        },
+        {
+            "name": " bigfishgames.ru",
+            "url": "https://bigfishgames.ru"
+        },
+        {
+            "name": " city-travel.site",
+            "url": "https://city-travel.site"
+        },
+        {
+            "name": " habr.com",
+            "url": "https://habr.com"
+        },
+        {
+            "name": " gamez.by",
+            "url": "https://gamez.by"
+        },
+        {
+            "name": " kinobaza.tv",
+            "url": "https://kinobaza.tv"
+        },
+        {
+            "name": " kino-dom.tv",
+            "url": "https://kino-dom.tv"
+        },
+        {
+            "name": " ru-board.com",
+            "url": "https://ru-board.com"
+        },
+        {
+            "name": " ag.ru",
+            "url": "https://ag.ru"
+        },
+        {
+            "name": " ogo.ua",
+            "url": "https://ogo.ua"
+        },
+        {
+            "name": " invest-bazar.ru",
+            "url": "https://invest-bazar.ru"
+        },
+        {
+            "name": " pornhub.com",
+            "url": "https://pornhub.com"
+        },
+        {
+            "name": " wikimart.ru",
+            "url": "https://wikimart.ru"
+        },
+        {
+            "name": " eapteka.ru",
+            "url": "https://eapteka.ru"
+        },
+        {
+            "name": " animego.tv",
+            "url": "https://animego.tv"
+        },
+        {
+            "name": " torg.mail.ru",
+            "url": "https://torg.mail.ru"
+        },
+        {
+            "name": " macruc.ru",
+            "url": "https://macruc.ru"
+        },
+        {
+            "name": " 2ip.ru",
+            "url": "https://2ip.ru"
+        },
+        {
+            "name": " wikipedia.org",
+            "url": "https://wikipedia.org"
+        },
+        {
+            "name": " gazeta.ru",
+            "url": "https://gazeta.ru"
+        },
+        {
+            "name": " drom.ru",
+            "url": "https://drom.ru"
+        },
+        {
+            "name": " cloud.mail.ru",
+            "url": "https://cloud.mail.ru"
+        },
+        {
+            "name": " kwork.ru",
+            "url": "https://kwork.ru"
+        },
+        {
+            "name": " ykt.ru",
+            "url": "https://ykt.ru"
+        },
+        {
+            "name": " sberbank.ru",
+            "url": "https://sberbank.ru"
+        },
+        {
+            "name": " teresheva-svadba.ru",
+            "url": "https://teresheva-svadba.ru"
+        },
+        {
+            "name": " mirtesen.ru",
+            "url": "https://mirtesen.ru"
+        },
+        {
+            "name": " iwebp.com",
+            "url": "https://iwebp.com"
+        },
+        {
+            "name": " torrent4you.org",
+            "url": "https://torrent4you.org"
+        },
+        {
+            "name": " tvp.net.ru",
+            "url": "https://tvp.net.ru"
+        },
+        {
+            "name": " transfermarkt.ru",
+            "url": "https://transfermarkt.ru"
+        },
+        {
+            "name": " kaspersky.ru",
+            "url": "https://kaspersky.ru"
+        },
+        {
+            "name": " ruvds.com",
+            "url": "https://ruvds.com"
+        },
+        {
+            "name": " zapovedniks.ru",
+            "url": "https://zapovedniks.ru"
+        },
+        {
+            "name": " reg.ru",
+            "url": "https://reg.ru"
+        },
+        {
+            "name": " music.yandex.ru",
+            "url": "https://music.yandex.ru"
+        },
+        {
+            "name": " kino-teatr.ru",
+            "url": "https://kino-teatr.ru"
+        },
+        {
+            "name": " comss.ru",
+            "url": "https://comss.ru"
+        },
+        {
+            "name": " gov.ru",
+            "url": "https://gov.ru"
+        },
+        {
+            "name": " kinozal.tv",
+            "url": "https://kinozal.tv"
+        },
+        {
+            "name": " kino-bar.club",
+            "url": "https://kino-bar.club"
+        },
+        {
+            "name": " btcsale.pro",
+            "url": "https://btcsale.pro"
+        },
+        {
+            "name": "alfabank",
+            "url": "https://alfabank"
+        },
+        {
+            "name": " goodfon.ru",
+            "url": "https://goodfon.ru"
+        },
+        {
+            "name": " goha.ru",
+            "url": "https://goha.ru"
+        },
+        {
+            "name": " help-wifi.com",
+            "url": "https://help-wifi.com"
+        },
+        {
+            "name": " love2fly.ru",
+            "url": "https://love2fly.ru"
+        },
+        {
+            "name": " vk.com",
+            "url": "https://vk.com"
+        },
+        {
+            "name": " championat.com",
+            "url": "https://championat.com"
+        },
+        {
+            "name": " securenotes.ru",
+            "url": "https://securenotes.ru"
+        },
+        {
+            "name": " mdoyke.ru",
+            "url": "https://mdoyke.ru"
+        },
+        {
+            "name": " letitbit.net",
+            "url": "https://letitbit.net"
+        },
+        {
+            "name": " rutracker.org",
+            "url": "https://rutracker.org"
+        },
+        {
+            "name": " kinomax.ru",
+            "url": "https://kinomax.ru"
+        },
+        {
+            "name": " rambler.ru",
+            "url": "https://rambler.ru"
+        },
+        {
+            "name": " kinopoisk.ru",
+            "url": "https://kinopoisk.ru"
+        },
+        {
+            "name": " minecraft.net",
+            "url": "https://minecraft.net"
+        },
+        {
+            "name": " google.com",
+            "url": "https://google.com"
+        },
+        {
+            "name": " wildberries.ru",
+            "url": "https://wildberries.ru"
+        },
+        {
+            "name": " hdd.tomsk.ru",
+            "url": "https://hdd.tomsk.ru"
+        },
+        {
+            "name": " yaplakal.com",
+            "url": "https://yaplakal.com"
+        },
+        {
+            "name": " serbianforum.org",
+            "url": "https://serbianforum.org"
+        },
+        {
+            "name": " news.mail.ru",
+            "url": "https://news.mail.ru"
+        },
+        {
+            "name": " xakep.ru",
+            "url": "https://xakep.ru"
+        },
+        {
+            "name": " proproger.ru",
+            "url": "https://proproger.ru"
+        },
+        {
+            "name": " kp.ru",
+            "url": "https://kp.ru"
+        },
+        {
+            "name": " superjob.ru",
+            "url": "https://superjob.ru"
+        },
+        {
+            "name": " online-gdz.net",
+            "url": "https://online-gdz.net"
+        },
+        {
+            "name": " natashaclub.com",
+            "url": "https://natashaclub.com"
+        },
+        {
+            "name": " rabota.yandex.ru",
+            "url": "https://rabota.yandex.ru"
+        },
+        {
+            "name": " kinobar.club",
+            "url": "https://kinobar.club"
+        },
+        {
+            "name": " afisha.ru",
+            "url": "https://afisha.ru"
+        },
+        {
+            "name": " onlinetv.fun",
+            "url": "https://onlinetv.fun"
+        },
+        {
+            "name": " mybook.ru",
+            "url": "https://mybook.ru"
+        },
+        {
+            "name": " yandex.ru",
+            "url": "https://yandex.ru"
+        },
+        {
+            "name": " alfabank.ru",
+            "url": "https://alfabank.ru"
+        },
+        {
+            "name": " lenina74.ru",
+            "url": "https://lenina74.ru"
+        },
+        {
+            "name": " t.me",
+            "url": "https://t.me"
+        },
+        {
+            "name": " goglaz.ru",
+            "url": "https://goglaz.ru"
+        },
+        {
+            "name": " torrent-games.net",
+            "url": "https://torrent-games.net"
+        },
+        {
+            "name": " kinogo.site",
+            "url": "https://kinogo.site"
+        },
+        {
+            "name": " market.yandex.ru",
+            "url": "https://market.yandex.ru"
+        },
+        {
+            "name": " tinkoff.ru",
+            "url": "https://tinkoff.ru"
+        }
+    ]
+}
